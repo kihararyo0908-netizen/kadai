@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="kadai/kadai.vcxproj" Id="5a0eb727-9797-4c79-a045-1ae9f016dab2" />
+</Solution>
